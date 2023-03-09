@@ -1,8 +1,8 @@
 # old-pmps-dev-arbiter
 
-This is the LCLS TwinCAT3 project old-pmps-dev-arbiter.
+This is the LCLS TwinCAT3 project lcls-plc-test-old-dev-arbiter.
 
-[Documentation](https://pcdshub.github.io/old-pmps-dev-arbiter)
+[Documentation](https://pcdshub.github.io/lcls-plc-test-old-dev-arbiter)
 
 ## Purpose
 
